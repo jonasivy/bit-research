@@ -11,15 +11,9 @@
 {
     "ui/button": {
         "scope": "tff_jonasivy.bit-research",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "mainFile": "index.ts",
-        "rootDir": "bit-research/ui/button",
-        "nextVersion": {
-            "version": "patch",
-            "message": "Soft tagged",
-            "username": "tff_jonasivy",
-            "email": "jonasivyimperial@gmail.com"
-        }
+        "rootDir": "bit-research/ui/button"
     },
     "ui/span": {
         "scope": "tff_jonasivy.bit-research",
