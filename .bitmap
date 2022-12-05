@@ -11,27 +11,15 @@
 {
     "ui/button": {
         "scope": "tff_jonasivy.bit-research",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "mainFile": "index.ts",
-        "rootDir": "bit-research/ui/button",
-        "nextVersion": {
-            "version": "patch",
-            "message": "Soft tagged (bump dependencies versions)",
-            "username": "tff_jonasivy",
-            "email": "jonasivyimperial@gmail.com"
-        }
+        "rootDir": "bit-research/ui/button"
     },
     "ui/span": {
         "scope": "tff_jonasivy.bit-research",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "mainFile": "index.ts",
-        "rootDir": "bit-research/ui/span",
-        "nextVersion": {
-            "version": "patch",
-            "message": "Soft tagged",
-            "username": "tff_jonasivy",
-            "email": "jonasivyimperial@gmail.com"
-        }
+        "rootDir": "bit-research/ui/span"
     },
     "$schema-version": "15.0.0"
 }
