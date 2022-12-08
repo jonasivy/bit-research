@@ -7,7 +7,7 @@ importers:
   .:
     specifiers:
       '@babel/runtime': 7.12.18
-      '@solobrands/token-library': 1.1.14
+      '@solobrands/token-library': 1.1.15
       '@teambit/eslint-config-bit-react': ~0.0.367
       '@testing-library/react': ^12.1.5
       '@types/jest': ^26.0.0
@@ -26,7 +26,7 @@ importers:
       react: ^16.8.0 || ^17.0.0
       react-dom: ^16.8.0 || ^17.0.0
     dependencies:
-      '@solobrands/token-library': 1.1.14
+      '@solobrands/token-library': 1.1.15
       '@teambit/eslint-config-bit-react': registry.npmjs.org/@teambit/eslint-config-bit-react/0.0.367_ila2odovlggsd4ks6hgtkp6zma
       '@testing-library/react': registry.npmjs.org/@testing-library/react/12.1.5_sfoxds7t5ydpegc3knd667wn6m
       '@typescript-eslint/eslint-plugin': registry.npmjs.org/@typescript-eslint/eslint-plugin/4.29.3
@@ -55,8 +55,8 @@ importers:
 
 packages:
 
-  /@solobrands/token-library/1.1.14:
-    resolution: {integrity: sha512-2re4nmoZuINcwPV5NIQxPio467aKcewTiw/5Va4RDMOHVi0et2IVeLZbxg9dbZFA2TJkAxHqE+ITuMmK1L8ziA==}
+  /@solobrands/token-library/1.1.15:
+    resolution: {integrity: sha512-KcLLA1G3I4PwHDz5FnNGjGk3HhYd1Q7jW2wIwH/s3bvyp8VjlmWE8tB95Nx6dmIPholcENaxj0KS4PEWS/ht/w==}
     dependencies:
       '@types/node': registry.npmjs.org/@types/node/18.11.11
       child_process: registry.npmjs.org/child_process/1.0.2
@@ -595,7 +595,7 @@ packages:
     dev: true
 
   registry.npmjs.org/@types/node/18.11.11:
-    resolution: {integrity: sha512-KJ021B1nlQUBLopzZmPBVuGU9un7WJd/W4ya7Ih02B4Uwky5Nja0yGYav2EfYIk0RR2Q9oVhf60S2XR1BCWJ2g==, registry: https://node.bit.cloud/, tarball: https://registry.npmjs.org/@types/node/-/node-18.11.11.tgz}
+    resolution: {integrity: sha512-KJ021B1nlQUBLopzZmPBVuGU9un7WJd/W4ya7Ih02B4Uwky5Nja0yGYav2EfYIk0RR2Q9oVhf60S2XR1BCWJ2g==, registry: https://node.bit.dev/, tarball: https://registry.npmjs.org/@types/node/-/node-18.11.11.tgz}
     name: '@types/node'
     version: 18.11.11
     dev: false
@@ -1242,7 +1242,7 @@ packages:
     dev: false
 
   registry.npmjs.org/child_process/1.0.2:
-    resolution: {integrity: sha512-Wmza/JzL0SiWz7kl6MhIKT5ceIlnFPJX+lwUGj7Clhy5MMldsSoJR0+uvRzOS5Kv45Mq7t1PoE8TsOA9bzvb6g==, registry: https://node.bit.cloud/, tarball: https://registry.npmjs.org/child_process/-/child_process-1.0.2.tgz}
+    resolution: {integrity: sha512-Wmza/JzL0SiWz7kl6MhIKT5ceIlnFPJX+lwUGj7Clhy5MMldsSoJR0+uvRzOS5Kv45Mq7t1PoE8TsOA9bzvb6g==, registry: https://node.bit.dev/, tarball: https://registry.npmjs.org/child_process/-/child_process-1.0.2.tgz}
     name: child_process
     version: 1.0.2
     dev: false
