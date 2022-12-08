@@ -9,7 +9,7 @@ export type SpanProps = {
 
 export function Span({ children }: SpanProps) {
   return (
-    <span className='test'>
+    <span className='test asd'>
       {children}
     </span>
   );
