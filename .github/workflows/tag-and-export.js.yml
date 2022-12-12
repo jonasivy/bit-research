@@ -38,7 +38,11 @@ jobs:
         run: bit tag --persist
       - name: Export components
         run: bit export
-      - name: Commit changes made to .bitmap
+      - name: Check tagging changes
+        id: changes
+        uses: UnicornGlobal/has-changes-action@v1.0.11
+      - name: Commit changes to github
+        if: steps.changes.outputs.changed == 1
         run: |
           git config --global user.name '${{ github.actor }}'
           git config --global user.email '${{ github.actor }}@users.noreply.github.com'
