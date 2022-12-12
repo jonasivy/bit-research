@@ -15,7 +15,7 @@
         "mainFile": "index.ts",
         "rootDir": "bit-research/ui/button",
         "nextVersion": {
-            "version": "1.0.6",
+            "version": "1.0.5",
             "message": "Soft tagged",
             "username": "tff_jonasivy",
             "email": "jonasivyimperial@gmail.com"
