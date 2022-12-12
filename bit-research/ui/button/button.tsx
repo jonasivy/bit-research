@@ -9,7 +9,7 @@ export type ButtonProps = {
 
 export function Button({ children }: ButtonProps) {
   return (
-    <button className='test test test test'>
+    <button className='test test test test test'>
       {children}
     </button>
   );
